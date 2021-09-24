@@ -1,0 +1,53 @@
+{
+    "Monday"  : {
+        "08:45" :  ["--url=zoommtg://zoom.us/join?action=join&confno=3020685716&pwd=8kYH9a",
+            "Математические модели и методы логистики лекция"],
+        "10:35" :  ["https://class.tsu.ru/m-course-31478/?guestName=username&proto=true",
+            "Теория игр и исследование операций практика"],
+        "12:25" :  ["https://class.tsu.ru/m-course-8927?guestName=username&proto=true",
+            "Математические модели маркетинга лекция"], 
+        "14:45" :  ["https://class.tsu.ru/m-course-31478?guestName=username&proto=true",
+            "Теория игр и исследование операций лекция"]      
+    },
+    "Tuesday" : {
+        "10:35" : ["https://class.tsu.ru/m-course-13131?guestName=username&proto=true",
+            "Управление в экономических системах лекция"],                    
+        "16:35" : ["https://class.tsu.ru/m-course-13942?guestName=username&proto=true",
+            "Эконометрическое моделирование и стохастические процессы лекция"],
+        "18:25" : ["https://class.tsu.ru/m-course-441?guestName=username&proto=true",
+            "Эконометрика лекция"]
+    },
+    "Wednesday" : {
+        "10:35" :  ["https://class.tsu.ru/m-course-9455?guestName=username&proto=true",
+            "Теория массового обслуживания практика"],
+        "12:25" :  ["https://class.tsu.ru/m-course-5218?guestName=username&proto=true",
+           "Математические модели менеджмента практика"],
+        "14:45" :  ["https://class.tsu.ru/m-course-7323?guestName=username&proto=true",
+           "Интеллектуальные информационные системы лекция"],
+        "16:35" :  ["https://class.tsu.ru/m-course-441?guestName=username&proto=true",
+            "Эконометрика практика"]
+    },
+    "Thursday" : {
+         "17:00" :  ["--url=zoommtg://zoom.us/join?action=join&confno=3020685716&pwd=8kYH9a",
+            "ВКР консультация"]
+    },
+    "Friday" : {
+        "08:45" : ["--url=zoommtg://zoom.us/join?action=join&confno=8967702999&pwd=12345",
+            "Уравнения в конечных разностях лекция"],
+        "10:35" : ["https://class.tsu.ru/m-course-9455?guestName=username&proto=true",
+            "Теория массового обслуживания лекция"],
+        "12:25" : ["https://class.tsu.ru/m-course-8927?guestName=username&proto=true",
+            "Математические модели маркетинга практика"],
+        "14:45" : ["https://class.tsu.ru/m-course-13942?guestName=username&proto=true",
+            "Эконометрическое моделирование и стохастические процессы практика"]
+    },
+    "Saturday" : {
+        "08:45" : ["https://class.tsu.ru/m-course-8930?guestName=username&proto=true",
+            "Математические модели теории рисков лекция"],
+        "10:35" : ["https://class.tsu.ru/m-course-14049?guestName=username&proto=true",
+            "Экономико-математическое моделирование II"],
+        "14:45" : ["https://class.tsu.ru/m-course-5218?guestName=username&proto=true",
+            "Математические модели менеджмента лекция"]
+    },
+    "Sunday" : ""
+}
